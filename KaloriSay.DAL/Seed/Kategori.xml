@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Kategoriler>
+<Kategori KategoriID="1">
+<KATEGORIADI>TAHIL VE EKMEK URUNLERI</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="2">
+<KATEGORIADI>SUT VE SUT URUNLERI</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="3">
+<KATEGORIADI>MEYVELER</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="4">
+<KATEGORIADI>CİG SEBZELER</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="5">
+<KATEGORIADI>YAGLI TOHUMLAR VE ATISTIRMALIKLAR</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="6">
+<KATEGORIADI>YAGLAR</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="7">
+<KATEGORIADI>ET URUNLERI</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="8">
+<KATEGORIADI>KUMES HAYVANLARI</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="9">
+<KATEGORIADI>DENIZ URUNLERI</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="10">
+<KATEGORIADI>CORBALAR</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="11">
+<KATEGORIADI>SALATALAR</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="12">
+<KATEGORIADI>SEBZE YEMEKLERI</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="13">
+<KATEGORIADI>BUHARDA VEYA HASLAMA OLARAK TUKETILECEK SEBZELER</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="14">
+<KATEGORIADI>KAHVALTILIKLAR</KATEGORIADI>
+</Kategori>
+<Kategori KategoriID="15">
+<KATEGORIADI>TAHIL VE KURU BAKLAGIL YEMEKLERI</KATEGORIADI>
+</Kategori>
+</Kategoriler>
+

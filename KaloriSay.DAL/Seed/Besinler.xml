@@ -1,0 +1,2567 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Besinler>
+<Besin BesinID="1">
+<BesinAdi>Tam Buğday Ekmeği</BesinAdi>
+<Miktar>25</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 dilim</Porsiyon>
+<Karbonhidrat>10.68</Karbonhidrat>
+<Protein>3.11</Protein>
+<Yag>0.88</Yag>
+<Kalori>63</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="2">
+<BesinAdi>Çavdar Ekmeği</BesinAdi>
+<Miktar>25</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 dilim</Porsiyon>
+<Karbonhidrat>12.07</Karbonhidrat>
+<Protein>2.12</Protein>
+<Yag>0.82</Yag>
+<Kalori>65</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="3">
+<BesinAdi>Tahıllı Ekmek</BesinAdi>
+<Miktar>25</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 dilim</Porsiyon>
+<Karbonhidrat>10.84</Karbonhidrat>
+<Protein>3.34</Protein>
+<Yag>1.06</Yag>
+<Kalori>66</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="4">
+<BesinAdi>Kepekli Ekmek</BesinAdi>
+<Miktar>25</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 dilim</Porsiyon>
+<Karbonhidrat>11.95</Karbonhidrat>
+<Protein>2.2</Protein>
+<Yag>0.85</Yag>
+<Kalori>62</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="5">
+<BesinAdi>Beyaz Ekmek</BesinAdi>
+<Miktar>25</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 dilim</Porsiyon>
+<Karbonhidrat>13.62</Karbonhidrat>
+<Protein>2.55</Protein>
+<Yag>1</Yag>
+<Kalori>72</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="6">
+<BesinAdi>Mısır Ekmeği</BesinAdi>
+<Miktar>25</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 dilim</Porsiyon>
+<Karbonhidrat>11.45</Karbonhidrat>
+<Protein>1.08</Protein>
+<Yag>1.31</Yag>
+<Kalori>62</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="7">
+<BesinAdi>Sandviç Ekmeği (Beyaz)</BesinAdi>
+<Miktar>75</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 dilim beyaz ekmek</Porsiyon>
+<Karbonhidrat>40.86</Karbonhidrat>
+<Protein>7.65</Protein>
+<Yag>3</Yag>
+<Kalori>216</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="8">
+<BesinAdi>Sandviç Ekmeği (Tahıllı)</BesinAdi>
+<Miktar>75</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 dilim tahıllı ekmek</Porsiyon>
+<Karbonhidrat>32.52</Karbonhidrat>
+<Protein>10.02</Protein>
+<Yag>3.18</Yag>
+<Kalori>198</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="9">
+<BesinAdi>Simit</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 adet</Porsiyon>
+<Karbonhidrat>69</Karbonhidrat>
+<Protein>1</Protein>
+<Yag>17</Yag>
+<Kalori>434</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="10">
+<BesinAdi>Yulaf Gevreği (Musli)</BesinAdi>
+<Miktar>40</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yemek kaşığı</Porsiyon>
+<Karbonhidrat>30.28</Karbonhidrat>
+<Protein>4.48</Protein>
+<Yag>1.32</Yag>
+<Kalori>141</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="11">
+<BesinAdi>Sade Mısır Gevreği (Cornﬂakes)</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>24.28</Karbonhidrat>
+<Protein>1.88</Protein>
+<Yag>0.03</Yag>
+<Kalori>101</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="12">
+<BesinAdi>Tam Tahıllı Gevrek</BesinAdi>
+<Miktar>33</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>27.4</Karbonhidrat>
+<Protein>2.39</Protein>
+<Yag>1.12</Yag>
+<Kalori>124</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="13">
+<BesinAdi>Yulaf Ezmesi</BesinAdi>
+<Miktar>20</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yemek kaşığı</Porsiyon>
+<Karbonhidrat>13.4</Karbonhidrat>
+<Protein>3.2</Protein>
+<Yag>1.26</Yag>
+<Kalori>73</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="14">
+<BesinAdi>Patates</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>17.49</Karbonhidrat>
+<Protein>2.05</Protein>
+<Yag>0.09</Yag>
+<Kalori>77</Kalori>
+<KategoriID>1</KategoriID>
+</Besin>
+<Besin BesinID="15">
+<BesinAdi>İnek Sütü(Tam Yaglı)</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>8.64</Karbonhidrat>
+<Protein>5.67</Protein>
+<Yag>5.85</Yag>
+<Kalori>110</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="16">
+<BesinAdi>İnek Sütü (Yarım Yaglı)</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>10.84</Karbonhidrat>
+<Protein>6.66</Protein>
+<Yag>2.08</Yag>
+<Kalori>92</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="17">
+<BesinAdi>İnek Sütü (Yagsız)</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>10</Karbonhidrat>
+<Protein>6.66</Protein>
+<Yag>0.01</Yag>
+<Kalori>76</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="18">
+<BesinAdi>Keçi Sütü</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>10</Karbonhidrat>
+<Protein>6.66</Protein>
+<Yag>6.66</Yag>
+<Kalori>124</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="19">
+<BesinAdi>Soya Sütü</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>17.6</Karbonhidrat>
+<Protein>4</Protein>
+<Yag>2.4</Yag>
+<Kalori>112</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="20">
+<BesinAdi>Hindistan Cevizi Sütü</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 çay bardağı</Porsiyon>
+<Karbonhidrat>7.69</Karbonhidrat>
+<Protein>1.54</Protein>
+<Yag>18.49</Yag>
+<Kalori>200</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="21">
+<BesinAdi>Beyaz Peynir(Yarım Yaglı İnek)</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 parmak kalınlığında</Porsiyon>
+<Karbonhidrat>2.44</Karbonhidrat>
+<Protein>2.35</Protein>
+<Yag>4.58</Yag>
+<Kalori>60</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="22">
+<BesinAdi>Süzme Peynir</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 parmak kalınlığında</Porsiyon>
+<Karbonhidrat>1.05</Karbonhidrat>
+<Protein>4.05</Protein>
+<Yag>5.4</Yag>
+<Kalori>69</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="23">
+<BesinAdi>Lor Peyniri</BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>0.92</Karbonhidrat>
+<Protein>8.6</Protein>
+<Yag>0.21</Yag>
+<Kalori>43</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="24">
+<BesinAdi>Light Kaşar Peyniri</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 parmak kalınlığında</Porsiyon>
+<Karbonhidrat>1.2</Karbonhidrat>
+<Protein>9.15</Protein>
+<Yag>3.75</Yag>
+<Kalori>75.3</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="25">
+<BesinAdi>Labne Peyniri</BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yemek kaşığı</Porsiyon>
+<Karbonhidrat>2.25</Karbonhidrat>
+<Protein>2.45</Protein>
+<Yag>8.5</Yag>
+<Kalori>95.5</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="26">
+<BesinAdi>Örgü Peynir</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 parmak kalınlığında</Porsiyon>
+<Karbonhidrat>0.45</Karbonhidrat>
+<Protein>8</Protein>
+<Yag>7.05</Yag>
+<Kalori>97.2</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="27">
+<BesinAdi>Dil Peyniri</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 parmak kalınlığında</Porsiyon>
+<Karbonhidrat>0.6</Karbonhidrat>
+<Protein>6.78</Protein>
+<Yag>5.7</Yag>
+<Kalori>81</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="28">
+<BesinAdi>Mozarella</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 parmak kalınlığında</Porsiyon>
+<Karbonhidrat>0.66</Karbonhidrat>
+<Protein>6.61</Protein>
+<Yag>6.71</Yag>
+<Kalori>90</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="29">
+<BesinAdi>Hellim Peyniri</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 parmak kalınlığında</Porsiyon>
+<Karbonhidrat>0.25</Karbonhidrat>
+<Protein>7.13</Protein>
+<Yag>6.9</Yag>
+<Kalori>91.5</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="30">
+<BesinAdi>Kefir (Yaglı)</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>10</Karbonhidrat>
+<Protein>5.6</Protein>
+<Yag>6</Yag>
+<Kalori>120</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="31">
+<BesinAdi>Kefir (Yagsız)</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>8.06</Karbonhidrat>
+<Protein>6.82</Protein>
+<Yag>1.67</Yag>
+<Kalori>74</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="32">
+<BesinAdi>Meyveli Kefir</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>20</Karbonhidrat>
+<Protein>5.4</Protein>
+<Yag>6</Yag>
+<Kalori>156</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="33">
+<BesinAdi>Süzme Yoğurt</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 çay bardağı</Porsiyon>
+<Karbonhidrat>4.5</Karbonhidrat>
+<Protein>5.04</Protein>
+<Yag>6.3</Yag>
+<Kalori>95</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="34">
+<BesinAdi>Yoğurt (Yaglı)</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 çay bardağı</Porsiyon>
+<Karbonhidrat>3.58</Karbonhidrat>
+<Protein>8.1</Protein>
+<Yag>4.5</Yag>
+<Kalori>87</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="35">
+<BesinAdi>Yoğurt (Yagsız)</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 çay bardağı</Porsiyon>
+<Karbonhidrat>3.24</Karbonhidrat>
+<Protein>9.17</Protein>
+<Yag>0.35</Yag>
+<Kalori>53</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="36">
+<BesinAdi>Meyveli Yoğurt</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 çay bardağı</Porsiyon>
+<Karbonhidrat>11.06</Karbonhidrat>
+<Protein>6.6</Protein>
+<Yag>2.7</Yag>
+<Kalori>95</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="37">
+<BesinAdi>Ayran</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>5.6</Karbonhidrat>
+<Protein>4</Protein>
+<Yag>4</Yag>
+<Kalori>76</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="38">
+<BesinAdi>Cacık</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>11</Karbonhidrat>
+<Protein>6.66</Protein>
+<Yag>4.86</Yag>
+<Kalori>115</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="39">
+<BesinAdi>Badem Sütü</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>6</Karbonhidrat>
+<Protein>1</Protein>
+<Yag>2.2</Yag>
+<Kalori>48</Kalori>
+<KategoriID>2</KategoriID>
+</Besin>
+<Besin BesinID="40">
+<BesinAdi>Elma</BesinAdi>
+<Miktar>182</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>25.13</Karbonhidrat>
+<Protein>0.47</Protein>
+<Yag>0.31</Yag>
+<Kalori>95</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="41">
+<BesinAdi>Armut</BesinAdi>
+<Miktar>178</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>27.11</Karbonhidrat>
+<Protein>0.64</Protein>
+<Yag>0.25</Yag>
+<Kalori>101</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="42">
+<BesinAdi>Portakal</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>15.39</Karbonhidrat>
+<Protein>1.23</Protein>
+<Yag>0.16</Yag>
+<Kalori>62</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="43">
+<BesinAdi>Greyfurt</BesinAdi>
+<Miktar>246</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>18.45</Karbonhidrat>
+<Protein>1.35</Protein>
+<Yag>0.25</Yag>
+<Kalori>74</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="44">
+<BesinAdi>Ayva</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 küçük boy</Porsiyon>
+<Karbonhidrat>15.3</Karbonhidrat>
+<Protein>0.4</Protein>
+<Yag>0.1</Yag>
+<Kalori>57</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="45">
+<BesinAdi>Mandalina</BesinAdi>
+<Miktar>76</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 küçük boy</Porsiyon>
+<Karbonhidrat>10.14</Karbonhidrat>
+<Protein>0.62</Protein>
+<Yag>0.24</Yag>
+<Kalori>40</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="46">
+<BesinAdi>Kivi</BesinAdi>
+<Miktar>69</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>10.12</Karbonhidrat>
+<Protein>0.79</Protein>
+<Yag>0.36</Yag>
+<Kalori>42</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="47">
+<BesinAdi>Muz</BesinAdi>
+<Miktar>118</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>26.95</Karbonhidrat>
+<Protein>1.29</Protein>
+<Yag>0.39</Yag>
+<Kalori>105</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="48">
+<BesinAdi>Kayısı</BesinAdi>
+<Miktar>35</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 küçük boy</Porsiyon>
+<Karbonhidrat>3.89</Karbonhidrat>
+<Protein>0.49</Protein>
+<Yag>0.14</Yag>
+<Kalori>17</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="49">
+<BesinAdi>Çilek</BesinAdi>
+<Miktar>144</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>11.06</Karbonhidrat>
+<Protein>0.96</Protein>
+<Yag>0.43</Yag>
+<Kalori>46</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="50">
+<BesinAdi>Trabzon hurması</BesinAdi>
+<Miktar>80</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>15.96</Karbonhidrat>
+<Protein>0.48</Protein>
+<Yag>0.17</Yag>
+<Kalori>60</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="51">
+<BesinAdi>Kiraz</BesinAdi>
+<Miktar>138</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>22.09</Karbonhidrat>
+<Protein>1.46</Protein>
+<Yag>0.28</Yag>
+<Kalori>87</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="52">
+<BesinAdi>Vişne</BesinAdi>
+<Miktar>103</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>12.55</Karbonhidrat>
+<Protein>1.03</Protein>
+<Yag>0.31</Yag>
+<Kalori>52</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="53">
+<BesinAdi>Kavun</BesinAdi>
+<Miktar>160</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>13.06</Karbonhidrat>
+<Protein>1.34</Protein>
+<Yag>0.3</Yag>
+<Kalori>54</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="54">
+<BesinAdi>Karpuz</BesinAdi>
+<Miktar>154</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>11.63</Karbonhidrat>
+<Protein>0.94</Protein>
+<Yag>0.23</Yag>
+<Kalori>46</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="55">
+<BesinAdi>Ananas</BesinAdi>
+<Miktar>56</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 ince dilim</Porsiyon>
+<Karbonhidrat>7.35</Karbonhidrat>
+<Protein>0.3</Protein>
+<Yag>0.07</Yag>
+<Kalori>28</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="56">
+<BesinAdi>Avakado</BesinAdi>
+<Miktar>66</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1/3 orta boy</Porsiyon>
+<Karbonhidrat>5.63</Karbonhidrat>
+<Protein>1.32</Protein>
+<Yag>9.68</Yag>
+<Kalori>106</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="57">
+<BesinAdi>Mango</BesinAdi>
+<Miktar>165</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>24.72</Karbonhidrat>
+<Protein>1.35</Protein>
+<Yag>0.63</Yag>
+<Kalori>99</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="58">
+<BesinAdi>Ahududu</BesinAdi>
+<Miktar>123</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>14.69</Karbonhidrat>
+<Protein>1.48</Protein>
+<Yag>0.8</Yag>
+<Kalori>64</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="59">
+<BesinAdi>Böğürtlen</BesinAdi>
+<Miktar>144</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>13.84</Karbonhidrat>
+<Protein>2</Protein>
+<Yag>0.71</Yag>
+<Kalori>62</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="60">
+<BesinAdi>Yaban Mersini</BesinAdi>
+<Miktar>148</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>21.45</Karbonhidrat>
+<Protein>1.1</Protein>
+<Yag>0.49</Yag>
+<Kalori>84</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="61">
+<BesinAdi>Yeşil Erik</BesinAdi>
+<Miktar>165</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>18.84</Karbonhidrat>
+<Protein>1.15</Protein>
+<Yag>0.46</Yag>
+<Kalori>76</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="62">
+<BesinAdi>Kumkuat</BesinAdi>
+<Miktar>13</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 adet</Porsiyon>
+<Karbonhidrat>3.02</Karbonhidrat>
+<Protein>0.36</Protein>
+<Yag>0.16</Yag>
+<Kalori>13</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="63">
+<BesinAdi>Kırmızı Erik</BesinAdi>
+<Miktar>135</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>21.01</Karbonhidrat>
+<Protein>0.97</Protein>
+<Yag>0.31</Yag>
+<Kalori>81</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="64">
+<BesinAdi>Yenidünya</BesinAdi>
+<Miktar>148</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>18.09</Karbonhidrat>
+<Protein>0.64</Protein>
+<Yag>0.3</Yag>
+<Kalori>70</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="65">
+<BesinAdi>İncir</BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>9.59</Karbonhidrat>
+<Protein>0.38</Protein>
+<Yag>0.15</Yag>
+<Kalori>37</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="66">
+<BesinAdi>Dut</BesinAdi>
+<Miktar>140</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>13.72</Karbonhidrat>
+<Protein>2.02</Protein>
+<Yag>0.55</Yag>
+<Kalori>60</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="67">
+<BesinAdi>Üzüm</BesinAdi>
+<Miktar>151</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>27.33</Karbonhidrat>
+<Protein>1.09</Protein>
+<Yag>0.24</Yag>
+<Kalori>104</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="68">
+<BesinAdi>Nar</BesinAdi>
+<Miktar>87</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1/2 kase</Porsiyon>
+<Karbonhidrat>16.27</Karbonhidrat>
+<Protein>1.45</Protein>
+<Yag>1.02</Yag>
+<Kalori>72</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="69">
+<BesinAdi>Şeftali</BesinAdi>
+<Miktar>150</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>14.31</Karbonhidrat>
+<Protein>1.36</Protein>
+<Yag>0.38</Yag>
+<Kalori>58</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="70">
+<BesinAdi>Limon</BesinAdi>
+<Miktar>58</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>5.41</Karbonhidrat>
+<Protein>0.64</Protein>
+<Yag>0.17</Yag>
+<Kalori>17</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="71">
+<BesinAdi>Kuru İncir</BesinAdi>
+<Miktar>15</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>12.14</Karbonhidrat>
+<Protein>0.63</Protein>
+<Yag>0.18</Yag>
+<Kalori>47</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="72">
+<BesinAdi>Kuru üzüm</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1.5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>23.75</Karbonhidrat>
+<Protein>0.92</Protein>
+<Yag>14</Yag>
+<Kalori>89.7</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="73">
+<BesinAdi>Kuru kayısı</BesinAdi>
+<Miktar>10</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>4.38</Karbonhidrat>
+<Protein>0.24</Protein>
+<Yag>0.04</Yag>
+<Kalori>16</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="74">
+<BesinAdi>Kuru mürdüm eriği</BesinAdi>
+<Miktar>10</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>5.37</Karbonhidrat>
+<Protein>0.18</Protein>
+<Yag>0.03</Yag>
+<Kalori>20</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="75">
+<BesinAdi>Kuru yaban mersini</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1.5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>24.13</Karbonhidrat>
+<Protein>0.12</Protein>
+<Yag>0.4</Yag>
+<Kalori>91</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="76">
+<BesinAdi>Hurma</BesinAdi>
+<Miktar>10</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>6.23</Karbonhidrat>
+<Protein>0.2</Protein>
+<Yag>0.03</Yag>
+<Kalori>23</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="77">
+<BesinAdi>Kuru dut</BesinAdi>
+<Miktar>40</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yemek kaşığı</Porsiyon>
+<Karbonhidrat>16.98</Karbonhidrat>
+<Protein>0.88</Protein>
+<Yag>0.36</Yag>
+<Kalori>67.6</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="78">
+<BesinAdi>Taze Sıkılmış Meyve Suyu</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>ml</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>29.5</Karbonhidrat>
+<Protein>0.44</Protein>
+<Yag>0</Yag>
+<Kalori>124</Kalori>
+<KategoriID>3</KategoriID>
+</Besin>
+<Besin BesinID="79">
+<BesinAdi>Domates</BesinAdi>
+<Miktar>123</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>4.78</Karbonhidrat>
+<Protein>1.08</Protein>
+<Yag>0.25</Yag>
+<Kalori>22</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="80">
+<BesinAdi>Çeri Domates</BesinAdi>
+<Miktar>149</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>5.8</Karbonhidrat>
+<Protein>1.31</Protein>
+<Yag>0.3</Yag>
+<Kalori>27</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="81">
+<BesinAdi>Salatalık </BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>3.63</Karbonhidrat>
+<Protein>0.65</Protein>
+<Yag>0.11</Yag>
+<Kalori>15</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="82">
+<BesinAdi> Marul Kıvırcık</BesinAdi>
+<Miktar> 36</Miktar>
+<Birim>g</Birim>
+<Porsiyon> 1 kase doğranmış</Porsiyon>
+<Karbonhidrat> 1,03</Karbonhidrat>
+<Protein> 0,49</Protein>
+<Yag> 0,05</Yag>
+<Kalori> 5</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="83">
+<BesinAdi>Çarliston Biber</BesinAdi>
+<Miktar>46</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>2.46</Karbonhidrat>
+<Protein>0.76</Protein>
+<Yag>0.21</Yag>
+<Kalori>12</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="84">
+<BesinAdi>Kırmızı Biber</BesinAdi>
+<Miktar>119</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>7.18</Karbonhidrat>
+<Protein>1.18</Protein>
+<Yag>0.36</Yag>
+<Kalori>37</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="85">
+<BesinAdi>Nane</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yemek kaşığı</Porsiyon>
+<Karbonhidrat>0.24</Karbonhidrat>
+<Protein>0.06</Protein>
+<Yag>0.01</Yag>
+<Kalori>1</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="86">
+<BesinAdi>Reyhan/Fesleğen</BesinAdi>
+<Miktar>10</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yemek kaşığı</Porsiyon>
+<Karbonhidrat>0.23</Karbonhidrat>
+<Protein>0.13</Protein>
+<Yag>0.03</Yag>
+<Kalori>1</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="87">
+<BesinAdi>Dereotu</BesinAdi>
+<Miktar>10</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yemek kaşığı</Porsiyon>
+<Karbonhidrat>0.23</Karbonhidrat>
+<Protein>0.13</Protein>
+<Yag>0.03</Yag>
+<Kalori>1</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="88">
+<BesinAdi>Kişniş</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yemek kaşığı</Porsiyon>
+<Karbonhidrat>0.99</Karbonhidrat>
+<Protein>0.22</Protein>
+<Yag>0.32</Yag>
+<Kalori>5</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="89">
+<BesinAdi>Biberiye</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yemek kaşığı</Porsiyon>
+<Karbonhidrat>0.77</Karbonhidrat>
+<Protein>0.06</Protein>
+<Yag>0.18</Yag>
+<Kalori>4</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="90">
+<BesinAdi>Maydanoz</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yemek kaşığı</Porsiyon>
+<Karbonhidrat>0.24</Karbonhidrat>
+<Protein>0.11</Protein>
+<Yag>0.03</Yag>
+<Kalori>1</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="91">
+<BesinAdi>Turp</BesinAdi>
+<Miktar>116</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase doğranmış</Porsiyon>
+<Karbonhidrat>3.94</Karbonhidrat>
+<Protein>0.79</Protein>
+<Yag>0.12</Yag>
+<Kalori>19</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="92">
+<BesinAdi>Roka</BesinAdi>
+<Miktar>20</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>0.73</Karbonhidrat>
+<Protein>0.52</Protein>
+<Yag>0.13</Yag>
+<Kalori>5</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="93">
+<BesinAdi>Kereviz Yaprağı</BesinAdi>
+<Miktar>101</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>3</Karbonhidrat>
+<Protein>0.7</Protein>
+<Yag>0.17</Yag>
+<Kalori>16</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="94">
+<BesinAdi>Karnabahar</BesinAdi>
+<Miktar>107</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase doğranmış</Porsiyon>
+<Karbonhidrat>5.32</Karbonhidrat>
+<Protein>2.05</Protein>
+<Yag>0.3</Yag>
+<Kalori>27</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="95">
+<BesinAdi>Brokoli</BesinAdi>
+<Miktar>91</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase doğranmış</Porsiyon>
+<Karbonhidrat>6.04</Karbonhidrat>
+<Protein>2.57</Protein>
+<Yag>0.34</Yag>
+<Kalori>31</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="96">
+<BesinAdi>Brüksel Lahanası</BesinAdi>
+<Miktar>88</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>7.88</Karbonhidrat>
+<Protein>2.97</Protein>
+<Yag>0.26</Yag>
+<Kalori>38</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="97">
+<BesinAdi>Beyaz Lahana</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>5.16</Karbonhidrat>
+<Protein>1.14</Protein>
+<Yag>0.09</Yag>
+<Kalori>22</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="98">
+<BesinAdi>Kırmızı Lahana</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>6.56</Karbonhidrat>
+<Protein>1.27</Protein>
+<Yag>0.14</Yag>
+<Kalori>28</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="99">
+<BesinAdi>Havuç</BesinAdi>
+<Miktar>61</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>5.84</Karbonhidrat>
+<Protein>0.57</Protein>
+<Yag>0.15</Yag>
+<Kalori>25</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="100">
+<BesinAdi>Sarımsak</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 diş</Porsiyon>
+<Karbonhidrat>0.99</Karbonhidrat>
+<Protein>0.19</Protein>
+<Yag>0.02</Yag>
+<Kalori>4</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="101">
+<BesinAdi>Soğan</BesinAdi>
+<Miktar>110</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>10.27</Karbonhidrat>
+<Protein>1.21</Protein>
+<Yag>0.11</Yag>
+<Kalori>44</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="102">
+<BesinAdi>Yeşil Soğan</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yemek kaşığı kıyılmış</Porsiyon>
+<Karbonhidrat>0.44</Karbonhidrat>
+<Protein>0.11</Protein>
+<Yag>0.01</Yag>
+<Kalori>2</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="103">
+<BesinAdi>Semizotu</BesinAdi>
+<Miktar>43</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>1.46</Karbonhidrat>
+<Protein>0.87</Protein>
+<Yag>0.15</Yag>
+<Kalori>9</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="104">
+<BesinAdi>Pazı</BesinAdi>
+<Miktar>36</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase</Porsiyon>
+<Karbonhidrat>1.35</Karbonhidrat>
+<Protein>0.65</Protein>
+<Yag>0.07</Yag>
+<Kalori>7</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="105">
+<BesinAdi>Kabak</BesinAdi>
+<Miktar>196</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>6.1</Karbonhidrat>
+<Protein>2.37</Protein>
+<Yag>0.63</Yag>
+<Kalori>33</Kalori>
+<KategoriID>4</KategoriID>
+</Besin>
+<Besin BesinID="106">
+<BesinAdi>Kestane (Haşlama veya Izgara)</BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1/2 kase</Porsiyon>
+<Karbonhidrat>22.09</Karbonhidrat>
+<Protein>0.81</Protein>
+<Yag>0.62</Yag>
+<Kalori>98</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="107">
+<BesinAdi>Patlamış Mısır (Yagsız/Tuzsuz)</BesinAdi>
+<Miktar>20</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı</Porsiyon>
+<Karbonhidrat>15.58</Karbonhidrat>
+<Protein>2.4</Protein>
+<Yag>0.84</Yag>
+<Kalori>76</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="108">
+<BesinAdi>Sarı Leblebi</BesinAdi>
+<Miktar>20</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 çay bardağı</Porsiyon>
+<Karbonhidrat>11.7</Karbonhidrat>
+<Protein>3.73</Protein>
+<Yag>1.25</Yag>
+<Kalori>71</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="109">
+<BesinAdi>Beyaz Leblebi</BesinAdi>
+<Miktar>20</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 çay bardağı</Porsiyon>
+<Karbonhidrat>11.9</Karbonhidrat>
+<Protein>3.79</Protein>
+<Yag>1.2</Yag>
+<Kalori>72</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="110">
+<BesinAdi>Fındık</BesinAdi>
+<Miktar>15</Miktar>
+<Birim>g</Birim>
+<Porsiyon>10-12 adet</Porsiyon>
+<Karbonhidrat>2.57</Karbonhidrat>
+<Protein>2.3</Protein>
+<Yag>9.36</Yag>
+<Kalori>97</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="111">
+<BesinAdi>Badem</BesinAdi>
+<Miktar>17</Miktar>
+<Birim>g</Birim>
+<Porsiyon>12-14 adet</Porsiyon>
+<Karbonhidrat>3.62</Karbonhidrat>
+<Protein>3.55</Protein>
+<Yag>8.39</Yag>
+<Kalori>97</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="112">
+<BesinAdi>Ceviz</BesinAdi>
+<Miktar>10</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 tam adet</Porsiyon>
+<Karbonhidrat>1.1</Karbonhidrat>
+<Protein>1.22</Protein>
+<Yag>5.22</Yag>
+<Kalori>52</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="113">
+<BesinAdi>Kabak Çekirdeği</BesinAdi>
+<Miktar>20</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yemek kaşığı</Porsiyon>
+<Karbonhidrat>2.68</Karbonhidrat>
+<Protein>6.6</Protein>
+<Yag>8.42</Yag>
+<Kalori>104.4</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="114">
+<BesinAdi>Çiğ Kaju</BesinAdi>
+<Miktar>20</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yemek kaşığı</Porsiyon>
+<Karbonhidrat>6.04</Karbonhidrat>
+<Protein>3.64</Protein>
+<Yag>8.77</Yag>
+<Kalori>111</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="115">
+<BesinAdi>Galeta</BesinAdi>
+<Miktar>7</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 adet</Porsiyon>
+<Karbonhidrat>5.2</Karbonhidrat>
+<Protein>0.66</Protein>
+<Yag>0.76</Yag>
+<Kalori>32</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="116">
+<BesinAdi>Grissini</BesinAdi>
+<Miktar>6</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 adet</Porsiyon>
+<Karbonhidrat>3.8</Karbonhidrat>
+<Protein>0.52</Protein>
+<Yag>0.48</Yag>
+<Kalori>22</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="117">
+<BesinAdi>Grissini(ince)</BesinAdi>
+<Miktar>6</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 adet</Porsiyon>
+<Karbonhidrat>3.8</Karbonhidrat>
+<Protein>0.52</Protein>
+<Yag>0.48</Yag>
+<Kalori>22</Kalori>
+<KategoriID>5</KategoriID>
+</Besin>
+<Besin BesinID="118">
+<BesinAdi>Köfte</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yumurta kadar </Porsiyon>
+<Karbonhidrat>2.4</Karbonhidrat>
+<Protein>6.3</Protein>
+<Yag>2.7</Yag>
+<Kalori>59</Kalori>
+<KategoriID>7</KategoriID>
+</Besin>
+<Besin BesinID="119">
+<BesinAdi>Biftek</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon> 1 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>8.2</Protein>
+<Yag>4.5</Yag>
+<Kalori>75.6</Kalori>
+<KategoriID>7</KategoriID>
+</Besin>
+<Besin BesinID="120">
+<BesinAdi>Dana Antrikot </BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1.5 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>10,73 </Protein>
+<Yag>4,10 </Yag>
+<Kalori>82</Kalori>
+<KategoriID>7</KategoriID>
+</Besin>
+<Besin BesinID="121">
+<BesinAdi>Dana Kuşbaşı</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>7.44</Protein>
+<Yag>3.7</Yag>
+<Kalori>65.1</Kalori>
+<KategoriID>7</KategoriID>
+</Besin>
+<Besin BesinID="122">
+<BesinAdi>Yagsız Koyun Eti</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yumurta kadar</Porsiyon>
+<Karbonhidrat>0.02</Karbonhidrat>
+<Protein>10.03</Protein>
+<Yag>3.33</Yag>
+<Kalori>70</Kalori>
+<KategoriID>7</KategoriID>
+</Besin>
+<Besin BesinID="123">
+<BesinAdi>Tavşan </BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1.5 yumurta kadar </Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>10,03 </Protein>
+<Yag>2,77 </Yag>
+<Kalori>68</Kalori>
+<KategoriID>8</KategoriID>
+</Besin>
+<Besin BesinID="124">
+<BesinAdi>Hindi (Göğüs)</BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1.5 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>11.08</Protein>
+<Yag>1.73</Yag>
+<Kalori>63</Kalori>
+<KategoriID>8</KategoriID>
+</Besin>
+<Besin BesinID="125">
+<BesinAdi>Hindi (But)</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>8.36</Protein>
+<Yag>2.95</Yag>
+<Kalori>62</Kalori>
+<KategoriID>8</KategoriID>
+</Besin>
+<Besin BesinID="126">
+<BesinAdi> Tavuk (Göğüs)</BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon> 1.5 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein> 15,27</Protein>
+<Yag> 1,58</Yag>
+<Kalori>76</Kalori>
+<KategoriID>8</KategoriID>
+</Besin>
+<Besin BesinID="127">
+<BesinAdi>Tavuk (But)</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>7.25</Protein>
+<Yag>3.88</Yag>
+<Kalori>66</Kalori>
+<KategoriID>8</KategoriID>
+</Besin>
+<Besin BesinID="128">
+<BesinAdi>Tavuk (Kanat)</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>9.14</Protein>
+<Yag>2.44</Yag>
+<Kalori>61</Kalori>
+<KategoriID>8</KategoriID>
+</Besin>
+<Besin BesinID="129">
+<BesinAdi>Yumurta (Haşlanmış)</BesinAdi>
+<Miktar>45</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 orta boy</Porsiyon>
+<Karbonhidrat>0.5</Karbonhidrat>
+<Protein>5.66</Protein>
+<Yag>4.77</Yag>
+<Kalori>70</Kalori>
+<KategoriID>8</KategoriID>
+</Besin>
+<Besin BesinID="130">
+<BesinAdi>Somon</BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1.5 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>12.29</Protein>
+<Yag>2.64</Yag>
+<Kalori>76</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="131">
+<BesinAdi>Somon (Füme)</BesinAdi>
+<Miktar>50</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1.5 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>17.59</Protein>
+<Yag>3.63</Yag>
+<Kalori>103</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="132">
+<BesinAdi>Light Ton Balığı</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>19.44</Protein>
+<Yag>0.96</Yag>
+<Kalori>86</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="133">
+<BesinAdi>Alabalık</BesinAdi>
+<Miktar>71</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2.5 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>16.9</Protein>
+<Yag>5.24</Yag>
+<Kalori>119</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="134">
+<BesinAdi>Istakoz</BesinAdi>
+<Miktar>145</Miktar>
+<Birim>g</Birim>
+<Porsiyon> 1 kase pişmiş</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>27.55</Protein>
+<Yag>1.25</Yag>
+<Kalori>129</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="135">
+<BesinAdi>Levrek </BesinAdi>
+<Miktar>101</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar </Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>23.87</Protein>
+<Yag>2.59</Yag>
+<Kalori>125</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="136">
+<BesinAdi>Çupra </BesinAdi>
+<Miktar>110 </Miktar>
+<Birim>g</Birim>
+<Porsiyon>3.5 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>21,71 </Protein>
+<Yag>3</Yag>
+<Kalori>120</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="137">
+<BesinAdi>Karides</BesinAdi>
+<Miktar>128</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase pişmiş</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>26.14</Protein>
+<Yag>1.74</Yag>
+<Kalori>128</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="138">
+<BesinAdi>Sazan </BesinAdi>
+<Miktar>85</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>19.43</Protein>
+<Yag>6.09</Yag>
+<Kalori>138</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="139">
+<BesinAdi> Mezgit</BesinAdi>
+<Miktar> 85</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar </Porsiyon>
+<Karbonhidrat> 0</Karbonhidrat>
+<Protein> 19,96</Protein>
+<Yag> 1,44</Yag>
+<Kalori> 99</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="140">
+<BesinAdi>İstavrit</BesinAdi>
+<Miktar>85</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>25.42</Protein>
+<Yag>5.34</Yag>
+<Kalori>156</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="141">
+<BesinAdi>Hamsi</BesinAdi>
+<Miktar>20</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 adet</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>5.78</Protein>
+<Yag>1.94</Yag>
+<Kalori>42</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="142">
+<BesinAdi>Palamut</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>20.99</Protein>
+<Yag>15.67</Yag>
+<Kalori>231</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="143">
+<BesinAdi>Barbun</BesinAdi>
+<Miktar>85</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>21.09</Protein>
+<Yag>4.13</Yag>
+<Kalori>128</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="144">
+<BesinAdi>Kalkan</BesinAdi>
+<Miktar>85</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>17.49</Protein>
+<Yag>3.21</Yag>
+<Kalori>104</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="145">
+<BesinAdi>Fener</BesinAdi>
+<Miktar>85</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>15.78</Protein>
+<Yag>1.66</Yag>
+<Kalori>82</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="146">
+<BesinAdi>Ahtapot</BesinAdi>
+<Miktar>85</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>25.35</Protein>
+<Yag>1.77</Yag>
+<Kalori>139</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="147">
+<BesinAdi>Dil Balığı</BesinAdi>
+<Miktar>85</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yumurta kadar</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>12.95</Protein>
+<Yag>2.01</Yag>
+<Kalori>73</Kalori>
+<KategoriID>9</KategoriID>
+</Besin>
+<Besin BesinID="148">
+<BesinAdi>Mercimek Çorbası</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı/1 kepçe</Porsiyon>
+<Karbonhidrat>9.63</Karbonhidrat>
+<Protein>3.61</Protein>
+<Yag>5.2</Yag>
+<Kalori>99</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="149">
+<BesinAdi>Tavuk Çorbası</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı/1 kepçe</Porsiyon>
+<Karbonhidrat>7</Karbonhidrat>
+<Protein>3.02</Protein>
+<Yag>1.83</Yag>
+<Kalori>56</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="150">
+<BesinAdi>Tarhana Çorbası </BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı/1 kepçe </Porsiyon>
+<Karbonhidrat>26.5</Karbonhidrat>
+<Protein>4.41</Protein>
+<Yag>2.52</Yag>
+<Kalori>147.6</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="151">
+<BesinAdi>Sebze Çorbası </BesinAdi>
+<Miktar>180 </Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı/1 kepçe 1 </Porsiyon>
+<Karbonhidrat>10,91 </Karbonhidrat>
+<Protein>1,98 </Protein>
+<Yag>0,81 </Yag>
+<Kalori>59</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="152">
+<BesinAdi>Ezogelin Çorbası</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>su bardağı/1 kepçe 1</Porsiyon>
+<Karbonhidrat>16.83</Karbonhidrat>
+<Protein>6.21</Protein>
+<Yag>0.3</Yag>
+<Kalori>93.6</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="153">
+<BesinAdi>Yayla Çorbası </BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>su bardağı/1 kepçe 1</Porsiyon>
+<Karbonhidrat>9.43</Karbonhidrat>
+<Protein>3.29</Protein>
+<Yag>7.38</Yag>
+<Kalori>117</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="154">
+<BesinAdi>Balkabağı Çorbası </BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>su bardağı/1 kepçe 1</Porsiyon>
+<Karbonhidrat>8.1</Karbonhidrat>
+<Protein>1.85</Protein>
+<Yag>1.83</Yag>
+<Kalori>53</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="155">
+<BesinAdi>Mantar çorbası</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>su bardağı/1 kepçe</Porsiyon>
+<Karbonhidrat>10.32</Karbonhidrat>
+<Protein>4.4</Protein>
+<Yag>7.15</Yag>
+<Kalori>123</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="156">
+<BesinAdi>Brokoli Çorbası</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı/1 kepçe</Porsiyon>
+<Karbonhidrat>13.6</Karbonhidrat>
+<Protein>6.19</Protein>
+<Yag>9.03</Yag>
+<Kalori>156</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="157">
+<BesinAdi>Lahana Çorbası</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı/1 kepçe</Porsiyon>
+<Karbonhidrat>5.65</Karbonhidrat>
+<Protein>2.88</Protein>
+<Yag>2.39</Yag>
+<Kalori>53</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="158">
+<BesinAdi>Domates Çorbası</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 su bardağı/1 kepçe</Porsiyon>
+<Karbonhidrat>12.91</Karbonhidrat>
+<Protein>1.67</Protein>
+<Yag>1.1</Yag>
+<Kalori>68</Kalori>
+<KategoriID>10</KategoriID>
+</Besin>
+<Besin BesinID="159">
+<BesinAdi>Sade Salata(karışık yeşillik)</BesinAdi>
+<Miktar>55</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase doğranmış</Porsiyon>
+<Karbonhidrat>1.76</Karbonhidrat>
+<Protein>0.84</Protein>
+<Yag>0.13</Yag>
+<Kalori>9</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="160">
+<BesinAdi>Mercimekli Lor Peynirli Salata</BesinAdi>
+<Miktar>255</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 porsiyon</Porsiyon>
+<Karbonhidrat>28</Karbonhidrat>
+<Protein>2.7</Protein>
+<Yag>5.1</Yag>
+<Kalori>180</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="161">
+<BesinAdi>Tavuklu Salata</BesinAdi>
+<Miktar>255</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 porsiyon</Porsiyon>
+<Karbonhidrat>5.28</Karbonhidrat>
+<Protein>31.38</Protein>
+<Yag>8.29</Yag>
+<Kalori>225</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="162">
+<BesinAdi>Etli Salata</BesinAdi>
+<Miktar>260</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 porsiyon</Porsiyon>
+<Karbonhidrat>5.28</Karbonhidrat>
+<Protein>24.84</Protein>
+<Yag>16.49</Yag>
+<Kalori>267</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="163">
+<BesinAdi>Ton Balıklı Salata</BesinAdi>
+<Miktar>270</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 porsiyon</Porsiyon>
+<Karbonhidrat>5.28</Karbonhidrat>
+<Protein>21.96</Protein>
+<Yag>6.35</Yag>
+<Kalori>215</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="164">
+<BesinAdi>Kısır</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4 yemek kaşığı</Porsiyon>
+<Karbonhidrat>15.84</Karbonhidrat>
+<Protein>2.71</Protein>
+<Yag>4.64</Yag>
+<Kalori>108</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="165">
+<BesinAdi>Mercimek Köftesi</BesinAdi>
+<Miktar>30</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yemek kaşığı</Porsiyon>
+<Karbonhidrat>9.95</Karbonhidrat>
+<Protein>2.75</Protein>
+<Yag>2.41</Yag>
+<Kalori>70</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="166">
+<BesinAdi>Tabule Salatası</BesinAdi>
+<Miktar>370</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 porsiyon</Porsiyon>
+<Karbonhidrat>51</Karbonhidrat>
+<Protein>14.4</Protein>
+<Yag>33.3</Yag>
+<Kalori>588</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="167">
+<BesinAdi>Lor Peynirli Yumurtalı Salata</BesinAdi>
+<Miktar>260</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 porsiyon</Porsiyon>
+<Karbonhidrat>6.7</Karbonhidrat>
+<Protein>16.78</Protein>
+<Yag>9.81</Yag>
+<Kalori>225</Kalori>
+<KategoriID>11</KategoriID>
+</Besin>
+<Besin BesinID="168">
+<BesinAdi>Ispanak Yemeği (Pirinçli veya Bulgurlu)</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>5.09</Karbonhidrat>
+<Protein>2.11</Protein>
+<Yag>10.3</Yag>
+<Kalori>115</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="169">
+<BesinAdi>Ispanak Yemeği (Etli,Kıymalı,Yumurtalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>6.29</Karbonhidrat>
+<Protein>5.26</Protein>
+<Yag>11.65</Yag>
+<Kalori>144.5</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="170">
+<BesinAdi>ZeytinYaglı Semizotu (Pirinçli veya Bulgurlu)</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>4.98</Karbonhidrat>
+<Protein>1.29</Protein>
+<Yag>10.26</Yag>
+<Kalori>112</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="171">
+<BesinAdi>Semizotu Yemeği (Etli veya Kıymalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>6.18</Karbonhidrat>
+<Protein>4.44</Protein>
+<Yag>11.00</Yag>
+<Kalori>141.5</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="172">
+<BesinAdi>ZeytinYaglı Pazı (Pirinçli veya Bulgurlu)</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>11.89</Karbonhidrat>
+<Protein>3.74</Protein>
+<Yag>7.18</Yag>
+<Kalori>131</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="173">
+<BesinAdi>Pazı Yemeği (Etli veya Kıymalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>13.09</Karbonhidrat>
+<Protein>6.89</Protein>
+<Yag>8.53</Yag>
+<Kalori>160</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="174">
+<BesinAdi>ZeytinYaglı Taze Fasülye</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>21.39</Karbonhidrat>
+<Protein>5.54</Protein>
+<Yag>5.15</Yag>
+<Kalori>151</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="175">
+<BesinAdi>Taze Fasulye Yemeği (Etli veya Kıymalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>22.59</Karbonhidrat>
+<Protein>8.69</Protein>
+<Yag>6.5</Yag>
+<Kalori>180.5</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="176">
+<BesinAdi>ZeytinYaglı Pırasa(Pirinçli ya da Nohutlu)</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>7.25</Karbonhidrat>
+<Protein>0.91</Protein>
+<Yag>10.27</Yag>
+<Kalori>120</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="177">
+<BesinAdi>Bezelye Yemeği (Havuçlu)</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>11.07</Karbonhidrat>
+<Protein>3.48</Protein>
+<Yag>10.38</Yag>
+<Kalori>147</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="178">
+<BesinAdi>Bezelye Yemeği (Etli/Tavuklu/Kıymalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>12.27</Karbonhidrat>
+<Protein>6.63</Protein>
+<Yag>11.73</Yag>
+<Kalori>176.5</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="179">
+<BesinAdi>ZeytinYaglı Brokoli</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>7.14</Karbonhidrat>
+<Protein>2.37</Protein>
+<Yag>5.41</Yag>
+<Kalori>80</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="180">
+<BesinAdi>Brokoli Yemeği (Etli/Kıymalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>8.34</Karbonhidrat>
+<Protein>5.52</Protein>
+<Yag>6.76</Yag>
+<Kalori>110</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="181">
+<BesinAdi>Karnabahar Yemeği</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>5.29</Karbonhidrat>
+<Protein>1.48</Protein>
+<Yag>10.41</Yag>
+<Kalori>115</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="182">
+<BesinAdi>Karnabahar Yemeği (Etli/Tavuklu/Kıymalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>6.45</Karbonhidrat>
+<Protein>4.63</Protein>
+<Yag>11.76</Yag>
+<Kalori>144.5</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="183">
+<BesinAdi>Bamya Yemeği</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>4.68</Karbonhidrat>
+<Protein>1.06</Protein>
+<Yag>10.57</Yag>
+<Kalori>113</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="184">
+<BesinAdi>Bamya Yemeği (Etli/Kıymalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>5.88</Karbonhidrat>
+<Protein>4.21</Protein>
+<Yag>11.92</Yag>
+<Kalori>142.5</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="185">
+<BesinAdi>ZeytinYaglı Türlü</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>8.68</Karbonhidrat>
+<Protein>1.33</Protein>
+<Yag>8.87</Yag>
+<Kalori>112</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="186">
+<BesinAdi>Etli Türlü Yemeği</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>9.88</Karbonhidrat>
+<Protein>4.48</Protein>
+<Yag>10.22</Yag>
+<Kalori>141.5</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="187">
+<BesinAdi>ZeytinYaglı Bakla</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>9.76</Karbonhidrat>
+<Protein>3.32</Protein>
+<Yag>10.69</Yag>
+<Kalori>145</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="188">
+<BesinAdi>ZeytinYaglı Kereviz</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>7.14</Karbonhidrat>
+<Protein>1.92</Protein>
+<Yag>6.37</Yag>
+<Kalori>90</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="189">
+<BesinAdi>ZeytinYaglı Enginar</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>12.09</Karbonhidrat>
+<Protein>2.93</Protein>
+<Yag>10.71</Yag>
+<Kalori>146</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="190">
+<BesinAdi>Mantar sote (Etli/Tavuklu)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>5.95</Karbonhidrat>
+<Protein>1.67</Protein>
+<Yag>10.42</Yag>
+<Kalori>118</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="191">
+<BesinAdi>Sebze Sote (Havuç,Yeşil kabak,brokoli)</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>g</Birim>
+<Porsiyon>10 yemek kaşığı</Porsiyon>
+<Karbonhidrat>4.55</Karbonhidrat>
+<Protein>0.94</Protein>
+<Yag>10.19</Yag>
+<Kalori>90</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="192">
+<BesinAdi>ZeytinYaglı Sebze Dolması</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase kadar</Porsiyon>
+<Karbonhidrat>13.59</Karbonhidrat>
+<Protein>5.6</Protein>
+<Yag>13.59</Yag>
+<Kalori>258</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="193">
+<BesinAdi>ZeytinYaglı yaprak Sarma</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 adet</Porsiyon>
+<Karbonhidrat>8.32</Karbonhidrat>
+<Protein>1.33</Protein>
+<Yag>8.15</Yag>
+<Kalori>108</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="194">
+<BesinAdi>Etli Sebze Dolması</BesinAdi>
+<Miktar>200</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase kadar</Porsiyon>
+<Karbonhidrat>8.3</Karbonhidrat>
+<Protein>18.67</Protein>
+<Yag>28.17</Yag>
+<Kalori>358</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="195">
+<BesinAdi>Etli Yaprak Sarma</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5-6 adet</Porsiyon>
+<Karbonhidrat>11.24</Karbonhidrat>
+<Protein>6.23</Protein>
+<Yag>12.32</Yag>
+<Kalori>176</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="196">
+<BesinAdi>ZeytinYaglı Kabak</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>5 yemek kaşığı</Porsiyon>
+<Karbonhidrat>5.19</Karbonhidrat>
+<Protein>0.81</Protein>
+<Yag>10.18</Yag>
+<Kalori>111</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="197">
+<BesinAdi>Kabak Yemeği(Etli/Kıymalı)</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>6 yemek kaşığı</Porsiyon>
+<Karbonhidrat>6.39</Karbonhidrat>
+<Protein>3.96</Protein>
+<Yag>11.53</Yag>
+<Kalori>140.5</Kalori>
+<KategoriID>12</KategoriID>
+</Besin>
+<Besin BesinID="198">
+<BesinAdi>Yeşil Kabak</BesinAdi>
+<Miktar>100</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 küçük boy</Porsiyon>
+<Karbonhidrat>2.69</Karbonhidrat>
+<Protein>1.14</Protein>
+<Yag>0.36</Yag>
+<Kalori>15</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="199">
+<BesinAdi>Ispanak</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase haşlanmış</Porsiyon>
+<Karbonhidrat>1.09</Karbonhidrat>
+<Protein>0.86</Protein>
+<Yag>0.12</Yag>
+<Kalori>7</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="200">
+<BesinAdi>Semizotu</BesinAdi>
+<Miktar>180</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase haşlanmış</Porsiyon>
+<Karbonhidrat>1.47</Karbonhidrat>
+<Protein>0.56</Protein>
+<Yag>0.04</Yag>
+<Kalori>7</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="201">
+<BesinAdi>Pazı</BesinAdi>
+<Miktar>144</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase kıyılmış</Porsiyon>
+<Karbonhidrat>7.89</Karbonhidrat>
+<Protein>3.7</Protein>
+<Yag>0.28</Yag>
+<Kalori>39</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="202">
+<BesinAdi>Karnabahar</BesinAdi>
+<Miktar>124</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase haşlanmış</Porsiyon>
+<Karbonhidrat>5.1</Karbonhidrat>
+<Protein>2.28</Protein>
+<Yag>0.56</Yag>
+<Kalori>29</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="203">
+<BesinAdi>Brokoli</BesinAdi>
+<Miktar>156</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase haşlanmış</Porsiyon>
+<Karbonhidrat>11.2</Karbonhidrat>
+<Protein>3.71</Protein>
+<Yag>0.64</Yag>
+<Kalori>55</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="204">
+<BesinAdi>Brüksel Lahanası</BesinAdi>
+<Miktar>156</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase haşlanmış</Porsiyon>
+<Karbonhidrat>11.08</Karbonhidrat>
+<Protein>3.98</Protein>
+<Yag>0.78</Yag>
+<Kalori>56</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="205">
+<BesinAdi>Taze Fasülye</BesinAdi>
+<Miktar>125</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase haşlanmış</Porsiyon>
+<Karbonhidrat>9.85</Karbonhidrat>
+<Protein>2.36</Protein>
+<Yag>0.35</Yag>
+<Kalori>44</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="206">
+<BesinAdi>Havuç</BesinAdi>
+<Miktar>156</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 kase haşlanmış</Porsiyon>
+<Karbonhidrat>12.82</Karbonhidrat>
+<Protein>1.19</Protein>
+<Yag>0.28</Yag>
+<Kalori>55</Kalori>
+<KategoriID>13</KategoriID>
+</Besin>
+<Besin BesinID="207">
+<BesinAdi>Peynirli omlet</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yumurta + 1 peynir</Porsiyon>
+<Karbonhidrat>2.05</Karbonhidrat>
+<Protein>15.37</Protein>
+<Yag>14.9</Yag>
+<Kalori>254</Kalori>
+<KategoriID>14</KategoriID>
+</Besin>
+<Besin BesinID="208">
+<BesinAdi>Mantarlı omlet</BesinAdi>
+<Miktar>150</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yumurta</Porsiyon>
+<Karbonhidrat>3.69</Karbonhidrat>
+<Protein>12.46</Protein>
+<Yag>9.9</Yag>
+<Kalori>205</Kalori>
+<KategoriID>14</KategoriID>
+</Besin>
+<Besin BesinID="209">
+<BesinAdi>Menemen</BesinAdi>
+<Miktar>150</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yumurta</Porsiyon>
+<Karbonhidrat>3.69</Karbonhidrat>
+<Protein>12.46</Protein>
+<Yag>9.9</Yag>
+<Kalori>205</Kalori>
+<KategoriID>14</KategoriID>
+</Besin>
+<Besin BesinID="210">
+<BesinAdi>Kaşarlı omlet</BesinAdi>
+<Miktar>130</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yumurta + 1 kaşar</Porsiyon>
+<Karbonhidrat>2.2</Karbonhidrat>
+<Protein>20.27</Protein>
+<Yag>13.29</Yag>
+<Kalori>260.3</Kalori>
+<KategoriID>14</KategoriID>
+</Besin>
+<Besin BesinID="211">
+<BesinAdi>Sebzeli omlet</BesinAdi>
+<Miktar>150</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yumurta</Porsiyon>
+<Karbonhidrat>3.69</Karbonhidrat>
+<Protein>12.46</Protein>
+<Yag>9.9</Yag>
+<Kalori>205</Kalori>
+<KategoriID>14</KategoriID>
+</Besin>
+<Besin BesinID="212">
+<BesinAdi>Yulaﬂı omlet</BesinAdi>
+<Miktar>120</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yumurta + 2 y.k yulaf ezmesi</Porsiyon>
+<Karbonhidrat>14.4</Karbonhidrat>
+<Protein>14.52</Protein>
+<Yag>10.8</Yag>
+<Kalori>258</Kalori>
+<KategoriID>14</KategoriID>
+</Besin>
+<Besin BesinID="213">
+<BesinAdi>Omlet Sade</BesinAdi>
+<Miktar>95</Miktar>
+<Birim>g</Birim>
+<Porsiyon>2 yumurta</Porsiyon>
+<Karbonhidrat>1</Karbonhidrat>
+<Protein>11.32</Protein>
+<Yag>14.9</Yag>
+<Kalori>185</Kalori>
+<KategoriID>14</KategoriID>
+</Besin>
+<Besin BesinID="214">
+<BesinAdi>Mercimek Yemeği</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>8.54</Karbonhidrat>
+<Protein>3.29</Protein>
+<Yag>6.22</Yag>
+<Kalori>100.2</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="215">
+<BesinAdi>Mercimek Yemeği(Etli/Kıymalı)</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4 yemek kaşığı</Porsiyon>
+<Karbonhidrat>10.94</Karbonhidrat>
+<Protein>9.59</Protein>
+<Yag>8.92</Yag>
+<Kalori>160</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="216">
+<BesinAdi>Nohut Yemeği</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>9.37</Karbonhidrat>
+<Protein>1.93</Protein>
+<Yag>6.47</Yag>
+<Kalori>101.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="217">
+<BesinAdi>Nohut Yemeği(Etli/Kıymalı)</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4 yemek kaşığı</Porsiyon>
+<Karbonhidrat>11.77</Karbonhidrat>
+<Protein>8.23</Protein>
+<Yag>9.17</Yag>
+<Kalori>160.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="218">
+<BesinAdi>Kuru Fasülye Yemeği</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>9.37</Karbonhidrat>
+<Protein>1.93</Protein>
+<Yag>6.47</Yag>
+<Kalori>101.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="219">
+<BesinAdi>Kuru Fasülye Yemeği (Etli/Kıymalı)</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4 yemek kaşığı</Porsiyon>
+<Karbonhidrat>11.77</Karbonhidrat>
+<Protein>8.23</Protein>
+<Yag>9.17</Yag>
+<Kalori>160.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="220">
+<BesinAdi>Bulgur Pilavı</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>13.43</Karbonhidrat>
+<Protein>2.2</Protein>
+<Yag>1.57</Yag>
+<Kalori>80</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="221">
+<BesinAdi>Bulgur Pilavı (Sebzeli)</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4 yemek kaşığı</Porsiyon>
+<Karbonhidrat>18.93</Karbonhidrat>
+<Protein>3.25</Protein>
+<Yag>2.07</Yag>
+<Kalori>108</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="222">
+<BesinAdi>Pirinç Pilavı</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>12.94</Karbonhidrat>
+<Protein>1.24</Protein>
+<Yag>1.94</Yag>
+<Kalori>75</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="223">
+<BesinAdi>Pirinç Pilavı(Sebzeli)</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4 yemek kaşığı</Porsiyon>
+<Karbonhidrat>18.44</Karbonhidrat>
+<Protein>2.29</Protein>
+<Yag>2.44</Yag>
+<Kalori>103</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="224">
+<BesinAdi>Şehriye Pilavı</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>14.67</Karbonhidrat>
+<Protein>0.2</Protein>
+<Yag>1.96</Yag>
+<Kalori>77.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="225">
+<BesinAdi>Makarna (Haşlama ve Yagsız)</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>15.07</Karbonhidrat>
+<Protein>2.62</Protein>
+<Yag>0.58</Yag>
+<Kalori>74.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="226">
+<BesinAdi>Makarna (Kıymalı)</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4 yemek kaşığı</Porsiyon>
+<Karbonhidrat>17.47</Karbonhidrat>
+<Protein>8.92</Protein>
+<Yag>3.28</Yag>
+<Kalori>133.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="227">
+<BesinAdi>Makarna(Peynirli)</BesinAdi>
+<Miktar>90</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4 yemek kaşığı</Porsiyon>
+<Karbonhidrat>15.99</Karbonhidrat>
+<Protein>11.22</Protein>
+<Yag>0.79</Yag>
+<Kalori>117.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="228">
+<BesinAdi>ZeytinYaglı Barbunya</BesinAdi>
+<Miktar>60</Miktar>
+<Birim>g</Birim>
+<Porsiyon>3 yemek kaşığı</Porsiyon>
+<Karbonhidrat>9.37</Karbonhidrat>
+<Protein>1.93</Protein>
+<Yag>6.47</Yag>
+<Kalori>101.4</Kalori>
+<KategoriID>15</KategoriID>
+</Besin>
+<Besin BesinID="229">
+<BesinAdi>ZeytinYagı</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 tatlı kaşığı</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>0</Protein>
+<Yag>5</Yag>
+<Kalori>45</Kalori>
+<KategoriID>6</KategoriID>
+</Besin>
+<Besin BesinID="230">
+<BesinAdi>Fındık Yagı</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 tatlı kaşığı</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>0</Protein>
+<Yag>5</Yag>
+<Kalori>45</Kalori>
+<KategoriID>6</KategoriID>
+</Besin>
+<Besin BesinID="231">
+<BesinAdi>Ceviz Yagı</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 tatlı kaşığı</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>0</Protein>
+<Yag>5</Yag>
+<Kalori>45</Kalori>
+<KategoriID>6</KategoriID>
+</Besin>
+<Besin BesinID="232">
+<BesinAdi>TereYag</BesinAdi>
+<Miktar>5</Miktar>
+<Birim>g</Birim>
+<Porsiyon>1 tatlı kaşığı</Porsiyon>
+<Karbonhidrat>0</Karbonhidrat>
+<Protein>0.04</Protein>
+<Yag>4.06</Yag>
+<Kalori>36</Kalori>
+<KategoriID>6</KategoriID>
+</Besin>
+<Besin BesinID="233">
+<BesinAdi>Zeytin (Yeşil/Siyah)</BesinAdi>
+<Miktar>40</Miktar>
+<Birim>g</Birim>
+<Porsiyon>4-5 adet</Porsiyon>
+<Karbonhidrat>2.48</Karbonhidrat>
+<Protein>0.33</Protein>
+<Yag>4.23</Yag>
+<Kalori>45</Kalori>
+<KategoriID>6</KategoriID>
+</Besin>
+</Besinler>
+
